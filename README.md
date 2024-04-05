@@ -23,9 +23,9 @@ Hi, I'm @reginaczech. I used to work in the manufacturing sector, producing beer
 <summary> EXERCISES TO COMPLETE: </summary>
 
 - [x] Blackjack Game
-- [ ] Underline
-- [ ] Stringifier
-- [ ] Instatags
+- [x] Underline
+- [x] Stringifier
+- [x] Instatags
 
 </details>
 
